@@ -34,7 +34,7 @@
 
 </head>
 <body>
-    <h1>Bienvenido a <?php echo SITE_NAME; ?></h1>
+    <h1>Bienvenido a TaskFlow></h1>
     <h2>Tareas Pendientes</h2>
     <ul>
         <?php foreach ($tareas as $tarea) : ?>
